@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it using this metadata."
+title: "NPC Three-Level PSFB Simulink Model"
+version: 1.0.0
+date-released: 2026-07-17
+authors:
+  - name: "NPC Three-Level PSFB Project Contributors"

@@ -1,0 +1,13 @@
+slprj/
+**/slprj/
+*.slxc
+*.asv
+*.autosave
+*.mat
+__pycache__/
+.pytest_cache/
+tmp/
+generated/
+docs/superpowers/
+.worktrees/
+.superpowers/
